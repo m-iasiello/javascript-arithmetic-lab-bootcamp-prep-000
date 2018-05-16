@@ -20,12 +20,12 @@ function divide(a,b) {
 
 //increment
 function inc(n) {
-  return n++
+  return n + 1
 }
 
 //decrement
 function dec(n) {
-  return n--
+  return n - 1
 }
 
 //make integer
