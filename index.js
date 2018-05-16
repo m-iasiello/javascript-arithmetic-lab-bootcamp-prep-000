@@ -24,7 +24,9 @@ function inc(n) {
 }
 
 //decrement
-function
+function dec(n) {
+  return n--
+}
 
 //make integer
 
