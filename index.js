@@ -29,5 +29,8 @@ function dec(n) {
 }
 
 //make integer
+function makeInt(n){
+  return parseInt(n)
+}
 
 //make decimal
